@@ -18,7 +18,7 @@ I have been writing code since 1998. I am a full-stack software developer, busin
 Python · FastAPI · TypeScript · React · Node.js · .NET Core · PostgreSQL · LLMs and AI agents · n8n · AWS · Azure
 
 ### Find me
-[About me](https://www.bisonar.com/en/baran-can-aydin) · [bisonar.com](https://www.bisonar.com) · [Blog](https://www.bisonar.com/en/blog) · [LinkedIn](https://www.linkedin.com/in/baran-can-aydin) · [YouTube](https://www.youtube.com/@barancanaydin) · [Medium](https://medium.com/@barancanaydn) · [Instructables](https://www.instructables.com/member/barancanaydin) · [Instagram](https://www.instagram.com/bisonar.tr/)
+[About me](https://www.bisonar.com/en/baran-can-aydin) · [bisonar.com](https://www.bisonar.com) · [Blog](https://www.bisonar.com/en/blog) · [LinkedIn](https://www.linkedin.com/in/baran-can-aydin) · [YouTube](https://www.youtube.com/@barancanaydin) · [Medium](https://medium.com/@barancanaydn) · [Instructables](https://www.instructables.com/member/barancanaydin)
 
 ---
 🇹🇷 1998'den beri kod yazıyorum. 2022'de kurduğum Bisonar ile işletmeleri yapay zekâ ile A'dan Z'ye dijitalleştiriyorum.
